@@ -1,6 +1,6 @@
 cask "binone" do
-  version "0.1.0"
-  sha256 "dbfdbfdfc8a461073a3fe1c558f3c691304f27bb3f63f29b13b80f6793ffbe43"
+  version "0.1.1"
+  sha256 "15f336923a29c54d5b98b251f7a1a3f2fe040e46b7c2e3edd19f23624239bccc"
 
   url "https://github.com/unagents/binone/releases/download/v#{version}/binone_#{version}_aarch64.dmg"
   name "binone"
